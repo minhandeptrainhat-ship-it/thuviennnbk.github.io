@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Quản lý Thư viện",
+  "description": "Một ứng dụng web hiện đại, trực quan để quản lý sách thư viện và việc mượn sách của học sinh. Có giao diện riêng cho quản trị viên và học sinh, bảng điều khiển thời gian thực và các chức năng mượn, trả sách dễ sử dụng.",
+  "requestFramePermissions": []
+}
